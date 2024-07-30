@@ -1,6 +1,6 @@
-<h1 align="center">Shopping Cart System</h1>
+<h1 align="center">Product Cart System</h1>
 
-This repository is a shopping cart system designed for FiveM, utilizing React and Lua. It includes several useful utilities. It supports both browser-based and in-game development workflows.
+This repository is a product cart system designed for FiveM, utilizing React and Lua. It includes several useful utilities. It supports both browser-based and in-game development workflows.
 
 ## Requirements
 
