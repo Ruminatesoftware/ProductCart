@@ -13,7 +13,7 @@ _A basic understanding of modern web development workflows. If you're unfamiliar
 
 ![Screenshot](images/Products.gif)
 
-This project is a dynamic shopping cart system designed for an engaging and interactive shopping experience. The interface features a product list with images and an intuitive cart section on the left sidebar. Users can add products to the cart, view selected items, remove items if needed, and see the total cost update in real-time.
+This project is a dynamic product cart system designed for an engaging and interactive shopping experience. The interface features a product list with images and an intuitive cart section on the left sidebar. Users can add products to the cart, view selected items, remove items if needed, and see the total cost update in real-time.
 
 ### Built With
 
